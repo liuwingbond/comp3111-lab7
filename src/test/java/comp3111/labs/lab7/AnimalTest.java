@@ -21,4 +21,10 @@ public class AnimalTest {
 		assertEquals(a.isAlive(), false);
 	}
 
+	@Test
+	public void testPoo() {
+		Animal a = new Animal();
+		for (int i = 0; i < 10; i++)
+			a.poo();
+	}
 }

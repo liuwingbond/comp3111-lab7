@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="comp3111.labs.lab7.AnimalTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-10-24T17:31:54" hostname="Martin-ASUS" time="0.007">
+  <properties/>
+  <testcase name="testPoo" classname="comp3111.labs.lab7.AnimalTest" time="0.006"/>
+  <testcase name="testDieByFeedingTooMuch" classname="comp3111.labs.lab7.AnimalTest" time="0.0"/>
+  <testcase name="testInitWeight" classname="comp3111.labs.lab7.AnimalTest" time="0.0"/>
+  <system-out><![CDATA[it dies becoz of underweight.
+it dies becoz of overweight.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
